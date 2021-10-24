@@ -4,6 +4,7 @@
     <DebuggerFlavor>ProjectDebugger</DebuggerFlavor>
   </PropertyGroup>
   <PropertyGroup>
-    <ActiveDebugProfile>ChallengeTakeBlip</ActiveDebugProfile>
+    <ActiveDebugProfile>Docker</ActiveDebugProfile>
+    <NameOfLastUsedPublishProfile>ChallengeTakeBlip</NameOfLastUsedPublishProfile>
   </PropertyGroup>
 </Project>

@@ -1,0 +1,12 @@
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\ChallengeTakeBlip.exe
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\ChallengeTakeBlip.dll
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\ChallengeTakeBlip.deps.json
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\ChallengeTakeBlip.runtimeconfig.json
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\ChallengeTakeBlip.pdb
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jackeline.moura\Desktop\takeblip-challege\ChallengeTakeBlip\ChallengeTakeBlip\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
