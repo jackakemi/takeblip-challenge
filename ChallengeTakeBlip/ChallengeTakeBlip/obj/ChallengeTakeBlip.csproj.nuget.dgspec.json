@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jackeline.moura\\Desktop\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj": {}
+    "C:\\Users\\jackeline.moura\\Desktop\\takeblip-challege\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jackeline.moura\\Desktop\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj": {
+    "C:\\Users\\jackeline.moura\\Desktop\\takeblip-challege\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jackeline.moura\\Desktop\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj",
+        "projectUniqueName": "C:\\Users\\jackeline.moura\\Desktop\\takeblip-challege\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj",
         "projectName": "ChallengeTakeBlip",
-        "projectPath": "C:\\Users\\jackeline.moura\\Desktop\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj",
+        "projectPath": "C:\\Users\\jackeline.moura\\Desktop\\takeblip-challege\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj",
         "packagesPath": "C:\\Users\\jackeline.moura\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jackeline.moura\\Desktop\\ChallengeTakeBlip\\ChallengeTakeBlip\\obj\\",
+        "outputPath": "C:\\Users\\jackeline.moura\\Desktop\\takeblip-challege\\ChallengeTakeBlip\\ChallengeTakeBlip\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -44,6 +44,10 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.6.3, )"

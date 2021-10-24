@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "HputITmMsPS2UDKbWW5ocgs1lljnXKaqb3FRSC3dTfSwInaozmf1BoGySxVfdqfo8GOtAQaN0WssW9SL0RXOzQ==",
+  "dgSpecHash": "yfjHRjWVmtmSlep5eBrK33gqKnQ47LvwZ0WOeP0SFeB+Mob58n55+dNpeC+RK4L1swrwcXRWTSAVAwZrDHEuJA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jackeline.moura\\Desktop\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj",
+  "projectFilePath": "C:\\Users\\jackeline.moura\\Desktop\\takeblip-challege\\ChallengeTakeBlip\\ChallengeTakeBlip\\ChallengeTakeBlip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jackeline.moura\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\jackeline.moura\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\jackeline.moura\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\jackeline.moura\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
     "C:\\Users\\jackeline.moura\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
     "C:\\Users\\jackeline.moura\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
