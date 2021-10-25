@@ -12,7 +12,7 @@ The deploy was done at Azure Cloud. Link to access: https://challengetakeblip.az
 
 *To Swagger run on the cloud:* https://challengetakeblip.azurewebsites.net/swagger/index.html
 
-## **How To Local Start**
+## **How To Start Local**
 
 *To local run:* Start the program in your editor of choice and it will launch on localhost:5001, so you can test the endpoint (GET : /api/GitHub).
 
