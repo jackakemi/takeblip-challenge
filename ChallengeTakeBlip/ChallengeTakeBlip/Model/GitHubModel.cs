@@ -1,9 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using System.Text.Json.Serialization;
-
 
 namespace ChallengeTakeBlip.Model
 {
@@ -19,7 +15,7 @@ namespace ChallengeTakeBlip.Model
         public string login { get; set; }
         public int id { get; set; }
         public string node_id { get; set; }
-        public string avatar_url { get; set; }  //preciso
+        public string avatar_url { get; set; }
         public string gravatar_id { get; set; }
         public string url { get; set; }
         public string html_url { get; set; }
@@ -59,11 +55,11 @@ namespace ChallengeTakeBlip.Model
         public int id { get; set; }
         public string node_id { get; set; }
         public string name { get; set; }
-        public string full_name { get; set; }  //preciso
+        public string full_name { get; set; }
         public bool @private { get; set; }
         public Owner owner { get; set; }
         public string html_url { get; set; }
-        public string description { get; set; } //preciso
+        public string description { get; set; }
         public bool fork { get; set; }
         public string url { get; set; }
         public string forks_url { get; set; }
@@ -135,50 +131,4 @@ namespace ChallengeTakeBlip.Model
         public string default_branch { get; set; }
         public Permissions permissions { get; set; }
     }
-
-
-
-    //public class GitHubModel
-    //{
-    //    [JsonPropertyName("avatar_url")]
-    //    public string AvatarUrl { get; set; }
-
-    //    [JsonPropertyName("id")]
-    //    public int Id { get; set; }
-
-
-    //    [JsonPropertyName("name")]
-    //    public string Name { get; set; }
-
-
-    //    [JsonPropertyName("full_name")]
-    //    public string FullName { get; set; }
-
-
-    //    [JsonPropertyName("owner")]
-    //    public string Owner { get; set; }
-
-
-    //    [JsonPropertyName("description")]
-    //    public string Description { get; set; }
-
-
-    //    //[JsonPropertyName("created_at")]
-    //    //public DateTime CreatedAt { get; set; }
-
-
-    //    [JsonPropertyName("updated_at")]
-    //    public string UpdateAt { get; set; }
-
-
-    //    [JsonPropertyName("language")]
-    //    public string Language { get; set; }
-
-
-    //    [JsonPropertyName("languages_url")]
-    //    public string LanguagesUrl { get; set; }
-
-    //    [JsonPropertyName("html_url")]
-    //    public string LinkRepo { get; set; }
-    //}
 }

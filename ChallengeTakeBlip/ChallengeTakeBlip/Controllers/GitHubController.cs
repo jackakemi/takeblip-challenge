@@ -6,8 +6,6 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 using System.Net;
-using System.Text.Json;
-using System.Threading.Tasks;
 
 namespace ChallengeTakeBlip.Controllers
 {
@@ -57,6 +55,7 @@ namespace ChallengeTakeBlip.Controllers
             {
                 throw e;
             }
+
             return botData;
         }
     }
