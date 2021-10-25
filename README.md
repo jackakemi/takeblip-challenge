@@ -4,17 +4,14 @@ Repository created to return the 5 oldest Take Blip's repositories on GitHub and
 
 ## **Technologies**
 
-#### [CSharp](https://docs.microsoft.com/pt-br/dotnet/csharp/) + [Docker](https://www.docker.com/)
+#### [C#](https://docs.microsoft.com/pt-br/dotnet/csharp/) + [Docker](https://www.docker.com/)
 
 
 ## **How To Start**
 
 ### Initial Settings
 
-Start the program in your editor of choice and it will launch on localhost:5001, so you can test the endpoint (Http GET : /api/GitHub).
-The application will run in <kbd>[CSharp + ](https://docs.microsoft.com/pt-br/dotnet/csharp/)</kbd>. 
-
-Swagger: https://localhost:5001/swagger/index.html
+Start the program in your editor of choice and it will launch on localhost:5001, so you can test the endpoint (GET : /api/GitHub).
 
 
 ## **Running With Docker**
