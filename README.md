@@ -24,5 +24,5 @@ Access the directory where the repository was cloned through the terminal and ex
 "docker-compose build" to compile images and create containers.
 
 
-# Deploy
+## Deploy
 The deploy was done in Azure Cloud. Link to access: https://challengetakeblip.azurewebsites.net/api/GitHub
