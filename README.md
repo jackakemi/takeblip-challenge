@@ -9,6 +9,7 @@ Repository created to return the 5 oldest Take Blip's repositories on GitHub and
 
 ## Deploy Azure 
 The deploy was done at Azure Cloud. Link to access: https://challengetakeblip.azurewebsites.net/api/GitHub
+
 *To Swagger run on the cloud:* https://challengetakeblip.azurewebsites.net/swagger/index.html
 
 ## **How To Local Start **
