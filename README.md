@@ -12,7 +12,7 @@ Repository created to return the 5 oldest Take Blip's repositories on GitHub and
 ### Initial Settings
 
 Start the program in your editor of choice and it will launch on localhost:5001, so you can test the endpoint (Http GET : /api/GitHub).
-The application will run in <kbd>[C# + ](https://docs.microsoft.com/pt-br/dotnet/csharp/)</kbd>. 
+The application will run in <kbd>[CSharp + ](https://docs.microsoft.com/pt-br/dotnet/csharp/)</kbd>. 
 
 Swagger: https://localhost:5001/swagger/index.html
 
